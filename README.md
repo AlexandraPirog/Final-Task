@@ -24,7 +24,7 @@
 
 ----------------------------------------------------------------------------
 ## Блок-схема решения задачи
-![](https://sun9-31.userapi.com/impg/5DcLCcREPMdyDa0iI1gEwv02xUp9i7F6NapdHg/81RNW37ygqE.jpg?size=882x716&quality=96&sign=8b74c823e4d197358232084b37967197&type=album)
+![](https://github.com/AlexandraPirog/Final-Task/blob/master/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)
 
 ## Описание решения задачи
 Для начала я воспользовалась командой ввода данных в массив, вывела этот массив.
@@ -90,7 +90,7 @@ Console.Write($"Новый массив: {string.Join(" | ", newArr)}");
 
 ## Скриншоты коммитов
 
-![](https://sun9-7.userapi.com/impg/omB4GFW8-CmOU33h6aAaM628XWtBcVm3UkpvLQ/ZtzMzWfdGXA.jpg?size=1920x1008&quality=96&sign=159acf0380f6f2525ce396412c42b554&type=album)
+![](https://github.com/AlexandraPirog/Final-Task/blob/master/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B.png)
 
 ## Скриншот решения 
-![](https://sun9-42.userapi.com/impg/02qvNoh2uq3HfnTvoBXCX6F0NpRD8ow-ytwhqA/wdqA7D7yEXs.jpg?size=1920x1008&quality=96&sign=9636a49d1c03c6b176bebafcbe26bcd4&type=album)
+![](https://github.com/AlexandraPirog/Final-Task/blob/master/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.png)
